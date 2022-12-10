@@ -1,5 +1,5 @@
-// Time complexity:
-// Space complexity:
+// Time complexity: O((W*HPermuationN) * (H*W))
+// Space complexity: O(H*W)
 public class Main {
 
     public static class BuildingPlacement {
